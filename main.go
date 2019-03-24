@@ -15,10 +15,10 @@ func main() {
 
 		log.Println(lines.Blue(body))
 		log.Println(lines.Green(body))
-		log.Println(lines.Lilac(body))
 		log.Println(lines.Red(body))
-		log.Println(lines.Silver(body))
 		log.Println(lines.Yellow(body))
+		log.Println(lines.Lilac(body))
+		log.Println(lines.Silver(body))
 		fmt.Println()
 
 		time.Sleep(time.Duration(60) * time.Second)
