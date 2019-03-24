@@ -15,11 +15,13 @@ go get github.com/thiago-scherrer/metrobot
 ## instalação manual
 
 Build
+
 ```bash
 go build
 ```
 
 Execução
+
 ```bash
 ./metrobot
 ```
